@@ -3,3 +3,8 @@
 ################################################################################
 
 /Test/.vs/Test/v16/Browse.VC.db
+/Test/.vs/Test/v16/Browse.VC.db-shm
+/Test/.vs/Test/v16/Browse.VC.db-wal
+*.opendb
+*.ipch
+/.vs
