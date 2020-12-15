@@ -9,8 +9,8 @@ private:
 	int* array = new int[size] {0};
 public:
 	Array();
-	Array(int n) /*: size{
-	n ? size = n : n = size };*/;
+	Array(int n) : size{
+	n ? size = n : n = size };
 	void SetSize(int n);
 	void SetMassiv();
 	void Show();

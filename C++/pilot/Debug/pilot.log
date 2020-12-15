@@ -1,2 +1,21 @@
 ﻿  Array.cpp
-  pilot.vcxproj -> C:\Users\Взрослая академия\source\repos\MyRepository\C++\Debug\pilot.exe
+C:\Users\Взрослая академия\source\repos\MyRepository\C++\pilot\Array.h(13,27): error C2969: синтаксическая ошибка: ;: требуется определение функции-члена до "}"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\sal.h(2361,8): error C2222: непредвиденный тип "int": ожидался базовый класс или член
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\sal.h(2361,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\sal.h(2361,12): error C2630: обнаружен ";" в списке с разделителем-запятой
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\utility(49,1): error C2226: синтаксическая ошибка: непредвиденный тип "_Ty"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\utility(52,1): error C2226: синтаксическая ошибка: непредвиденный тип "_Ty"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\utility(74,1): error C2226: синтаксическая ошибка: непредвиденный тип "_Ty"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\utility(77,1): error C2226: синтаксическая ошибка: непредвиденный тип "_Ty"
+C:\Users\Взрослая академия\source\repos\MyRepository\C++\pilot\Array.cpp(11,21): error C2084: функция "Array::Array(int)" уже имеет текст реализации
+C:\Users\Взрослая академия\source\repos\MyRepository\C++\pilot\Array.h(12): message : см. предыдущее определение "{ctor}"
+  pilot.cpp
+C:\Users\Взрослая академия\source\repos\MyRepository\C++\pilot\Array.h(13,27): error C2969: синтаксическая ошибка: ;: требуется определение функции-члена до "}"
+C:\Users\Взрослая академия\source\repos\MyRepository\C++\pilot\pilot.cpp(3,7): error C2059: синтаксическая ошибка: using namespace
+C:\Users\Взрослая академия\source\repos\MyRepository\C++\pilot\pilot.cpp(3,20): error C2630: обнаружен ";" в списке с разделителем-запятой
+C:\Users\Взрослая академия\source\repos\MyRepository\C++\pilot\pilot.cpp(5,5): error C2222: непредвиденный тип "int": ожидался базовый класс или член
+C:\Users\Взрослая академия\source\repos\MyRepository\C++\pilot\pilot.cpp(5,9): error C2061: синтаксическая ошибка: идентификатор "main"
+C:\Users\Взрослая академия\source\repos\MyRepository\C++\pilot\pilot.cpp(6,1): error C2630: обнаружен ";" в списке с разделителем-запятой
+C:\Users\Взрослая академия\source\repos\MyRepository\C++\pilot\pilot.cpp(21,9): error C2065: cout: необъявленный идентификатор
+C:\Users\Взрослая академия\source\repos\MyRepository\C++\pilot\pilot.cpp(21,17): error C2065: endl: необъявленный идентификатор
+  Создание кода...
