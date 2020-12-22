@@ -2,11 +2,18 @@
 #include "Header.h"
 
 using namespace std;
-
+int Date::conter = 0;
 int main()
 {
-    Date date1(2, 3, 4);
-    Date date2(1, 1, 1);
-    Date date3 = date1 + 421;
-    date3.Show();
+    Date* a = new Date[10];
+    cout << Date::conter << endl;
+    delete[]a;
+    cout << Date::conter<<endl;
+    Date b{};
+    cout << Date::conter << endl;
+    b.ShowDate();
+    //Date date2(1, 1, 1);
+    //Date date3 = date1 + 422;
+    //date3.Show();
+
 }
