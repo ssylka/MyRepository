@@ -12,12 +12,16 @@ int main()
     Parovoz.AddToHead(3);
     Parovoz.AddToTail(-1);
     Parovoz.AddToHead(4);
+    Parovoz.AddToHead(5);
+    Parovoz.AddToHead(6);
 
     Parovoz.Show();
 
-    Parovoz.DeleteTail();
-    Parovoz.DeleteTail();
-    Parovoz.DeleteTail();
+    Parovoz.DeleteIndex(4);
+    Parovoz.Show();
+
+    Parovoz.DeleteIndex(214);
+    Parovoz.Show();
 
 
 }

@@ -20,7 +20,9 @@ public:
 	void AddToTail(int);
 	void DeleteHead();
 	void DeleteTail();
+	void DeleteIndex(int);
 	void Show();
+	void AddByIndex(int, int);
 
 	~List();
 

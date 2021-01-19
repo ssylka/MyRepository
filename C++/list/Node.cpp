@@ -55,8 +55,25 @@ void List::AddToTail(int volue)
 	tail = newNode;
 }
 
+void List::DeleteHead()
+{
+	count--;
+	if (head == tail)
+	{
+		delete head;
+		head = tail = NULL;
+		return;
+	}
+	
+	Node* temp = this->head->next;
+	delete head;
+	head = temp;
+}
+
 void List::DeleteTail()
 {
+	count--;
+
 	if (head==tail)
 	{
 		delete head;
@@ -64,32 +81,75 @@ void List::DeleteTail()
 		return;
 	}
 
-	Node* temp;
+	Node* temp = this->head;
 
-	while (temp->next!=this->tail)
+	while (temp->next!= tail)
 	{
-		temp->next = temp;
+		temp = temp->next;
 	}
 	delete tail;
+	temp->next = NULL;
 	tail = temp;
 
+}
 
+void List::DeleteIndex(int index)
+{
 	count--;
-	
-	delete tail;
-	tail = this->head->next->; // неправильно
-	head = this->head->;
+	Node* temp = this->head;
 
+	if (index <= 1)
+	{
+		temp = head->next;
+		delete head;
+		head = temp;
+		return;
+	}		
+	if (index >= count)
+	{
+		while (temp->next != tail)
+		{
+			temp = temp->next;
+		}
+		delete tail;
+		tail = temp;
+		tail->next = NULL;
+		return;
+	}
+	
+	for (int i = 2; i < index; i++)
+	{
+		temp = temp->next;
+	}
+	Node* temp1 = temp->next->next;
+	delete temp->next;
+	temp->next = temp1;
 }
 
 void List::Show()
 {
 	Node* temp = this->head;
-	while (temp)
-	{
+	while (temp != NULL)
+	{ 
 		cout << temp->data<< endl;
 		temp = temp->next;
 	}
+	cout << endl;
+}
+
+void List::AddByIndex(int _data, int index)
+{
+	count++;
+	Node* temp = this->head;
+	for (int i = 0; i < index ; i++)
+	{
+		temp = temp->next;
+	} //решить частный случай добавления в голову и в хвост
+	Node* tempIndex = new Node;
+	tempIndex->next = temp->next;
+	temp->next = tempIndex;
+	tempIndex->data = _data;
+
 }
 
 List::~List()
