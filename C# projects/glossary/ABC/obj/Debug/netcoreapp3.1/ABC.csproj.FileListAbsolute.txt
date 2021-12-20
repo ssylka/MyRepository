@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\glossary\ABC\obj\Debug\netcoreapp3.1\ABC.csprojAssemblyReference.cache
+C:\Users\user\source\repos\glossary\ABC\obj\Debug\netcoreapp3.1\ABC.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\glossary\ABC\obj\Debug\netcoreapp3.1\ABC.AssemblyInfo.cs
+C:\Users\user\source\repos\glossary\ABC\obj\Debug\netcoreapp3.1\ABC.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\glossary\ABC\bin\Debug\netcoreapp3.1\ABC.exe
+C:\Users\user\source\repos\glossary\ABC\bin\Debug\netcoreapp3.1\ABC.deps.json
+C:\Users\user\source\repos\glossary\ABC\bin\Debug\netcoreapp3.1\ABC.runtimeconfig.json
+C:\Users\user\source\repos\glossary\ABC\bin\Debug\netcoreapp3.1\ABC.runtimeconfig.dev.json
+C:\Users\user\source\repos\glossary\ABC\bin\Debug\netcoreapp3.1\ABC.dll
+C:\Users\user\source\repos\glossary\ABC\bin\Debug\netcoreapp3.1\ABC.pdb
+C:\Users\user\source\repos\glossary\ABC\obj\Debug\netcoreapp3.1\ABC.dll
+C:\Users\user\source\repos\glossary\ABC\obj\Debug\netcoreapp3.1\ABC.pdb
+C:\Users\user\source\repos\glossary\ABC\obj\Debug\netcoreapp3.1\ABC.genruntimeconfig.cache

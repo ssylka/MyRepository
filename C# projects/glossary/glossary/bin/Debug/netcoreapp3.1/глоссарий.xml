@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<glossary>
+  <англо-русский обычный="с несолькими переводами">
+    <company>
+      <компания />
+      <корпарация />
+    </company>
+    <abduct>
+      <похищать />
+      <отводить />
+    </abduct>
+    <accented>
+      <подчеркнутый />
+    </accented>
+    <acerbate>
+      <озлоблять />
+    </acerbate>
+    <xml>
+      <хмл />
+    </xml>
+  </англо-русский>
+  <немецко-русский>
+    <abendrot сгнивать="123" />
+    <abends>вечер</abends>
+    <abessen>oбъедать</abessen>
+    <abfaulen>сгнивать</abfaulen>
+    <abfeiern>отгул</abfeiern>
+    <abfeiern>отгуливать, отгуллять</abfeiern>
+  </немецко-русский>
+</glossary>
