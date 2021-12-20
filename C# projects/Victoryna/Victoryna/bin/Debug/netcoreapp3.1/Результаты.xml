@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resultats>
+  <Login Login="subject">result</Login>
+  <stas>
+    <name>stas</name>
+    <subject>nosubject</subject>
+    <result>666</result>
+  </stas>
+  <login>
+    <name>login</name>
+    <subject>география.xml</subject>
+    <result>5</result>
+  </login>
+  <ф>
+    <name>ф</name>
+    <subject>2</subject>
+    <result>5</result>
+  </ф>
+  <login>
+    <name>login</name>
+    <subject>география</subject>
+    <result>11</result>
+  </login>
+</Resultats>

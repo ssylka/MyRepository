@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Victoryna\Victoryna\bin\Debug\netcoreapp3.1\Victoryna.exe
+C:\Users\user\source\repos\Victoryna\Victoryna\bin\Debug\netcoreapp3.1\Victoryna.deps.json
+C:\Users\user\source\repos\Victoryna\Victoryna\bin\Debug\netcoreapp3.1\Victoryna.runtimeconfig.json
+C:\Users\user\source\repos\Victoryna\Victoryna\bin\Debug\netcoreapp3.1\Victoryna.runtimeconfig.dev.json
+C:\Users\user\source\repos\Victoryna\Victoryna\bin\Debug\netcoreapp3.1\Victoryna.dll
+C:\Users\user\source\repos\Victoryna\Victoryna\bin\Debug\netcoreapp3.1\Victoryna.pdb
+C:\Users\user\source\repos\Victoryna\Victoryna\obj\Debug\netcoreapp3.1\Victoryna.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Victoryna\Victoryna\obj\Debug\netcoreapp3.1\Victoryna.AssemblyInfo.cs
+C:\Users\user\source\repos\Victoryna\Victoryna\obj\Debug\netcoreapp3.1\Victoryna.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Victoryna\Victoryna\obj\Debug\netcoreapp3.1\Victoryna.dll
+C:\Users\user\source\repos\Victoryna\Victoryna\obj\Debug\netcoreapp3.1\Victoryna.pdb
+C:\Users\user\source\repos\Victoryna\Victoryna\obj\Debug\netcoreapp3.1\Victoryna.genruntimeconfig.cache
+C:\Users\user\source\repos\Victoryna\Victoryna\obj\Debug\netcoreapp3.1\Victoryna.csprojAssemblyReference.cache
