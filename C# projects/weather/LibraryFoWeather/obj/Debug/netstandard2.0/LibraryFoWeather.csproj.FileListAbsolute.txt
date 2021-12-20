@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\weather\LibraryFoWeather\bin\Debug\netstandard2.0\LibraryFoWeather.deps.json
+C:\Users\user\source\repos\weather\LibraryFoWeather\bin\Debug\netstandard2.0\LibraryFoWeather.dll
+C:\Users\user\source\repos\weather\LibraryFoWeather\bin\Debug\netstandard2.0\LibraryFoWeather.pdb
+C:\Users\user\source\repos\weather\LibraryFoWeather\obj\Debug\netstandard2.0\LibraryFoWeather.csprojAssemblyReference.cache
+C:\Users\user\source\repos\weather\LibraryFoWeather\obj\Debug\netstandard2.0\LibraryFoWeather.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\weather\LibraryFoWeather\obj\Debug\netstandard2.0\LibraryFoWeather.AssemblyInfo.cs
+C:\Users\user\source\repos\weather\LibraryFoWeather\obj\Debug\netstandard2.0\LibraryFoWeather.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\weather\LibraryFoWeather\obj\Debug\netstandard2.0\LibraryFoWeather.dll
+C:\Users\user\source\repos\weather\LibraryFoWeather\obj\Debug\netstandard2.0\LibraryFoWeather.pdb
