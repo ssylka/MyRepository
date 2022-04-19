@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Censorship\Censorship\bin\Debug\Censorship.exe.config
+C:\Users\user\source\repos\Censorship\Censorship\bin\Debug\Censorship.exe
+C:\Users\user\source\repos\Censorship\Censorship\bin\Debug\Censorship.pdb
+C:\Users\user\source\repos\Censorship\Censorship\obj\Debug\Censorship.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Censorship\Censorship\obj\Debug\Censorship.Form1.resources
+C:\Users\user\source\repos\Censorship\Censorship\obj\Debug\Censorship.Properties.Resources.resources
+C:\Users\user\source\repos\Censorship\Censorship\obj\Debug\Censorship.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Censorship\Censorship\obj\Debug\Censorship.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Censorship\Censorship\obj\Debug\Censorship.exe
+C:\Users\user\source\repos\Censorship\Censorship\obj\Debug\Censorship.pdb
