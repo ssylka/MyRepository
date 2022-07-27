@@ -191,22 +191,3 @@ namespace Censorship
 
 
 
-
-
-
-
-
-
-
-namespace aaaa
-{
-    class Program
-    {
-    }
-}
-
-
-
-
-
-
