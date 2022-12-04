@@ -1,0 +1,43 @@
+{
+    "src": "source",
+    "dest": "www/static",
+    "types": {
+        "css": {
+            "src": "**/*.css",
+            "pipe": [
+                [ "gulp-autoprefixer", "last 2 versions" ]
+            ],
+            "minify": [
+                [ "gulp-cssnano" ]
+            ]
+        },
+        "less": {
+            "src": "**/*.less",
+            "pipe": [
+                [ "gulp-less" ],
+                [ "gulp-autoprefixer", "last 2 versions" ]
+            ],
+            "minify": [
+                [ "gulp-cssnano" ]
+            ]
+        },
+        "js": {
+            "src": "**/*.js",
+            "pipe": [
+                [ "gulp-babel", {
+                    "presets": [
+                        ["@babel/env", {
+                            "targets": {
+                                "browsers": [ "last 2 versions" ]
+                            }
+                        }]
+                    ],
+                    "ignore": [ "source/vue/js/vue.js" ]
+                } ]
+            ],
+            "minify": [
+                [ "gulp-uglify" ]
+            ]
+        }
+    }
+}
