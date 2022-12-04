@@ -1,0 +1,12 @@
+FROM node:8.10.0-alpine as builder
+
+RUN mkdir -p /usr/bin/app
+WORKDIR /usr/bin/app
+
+COPY package*.json /usr/bin/app/
+RUN npm i --no-save
+
+COPY postcss.config.js /usr/bin/app/
+COPY webpack.config.js /usr/bin/app/
+
+CMD npm start
