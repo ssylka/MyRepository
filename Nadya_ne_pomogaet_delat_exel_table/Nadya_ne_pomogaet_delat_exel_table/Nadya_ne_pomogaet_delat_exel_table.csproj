@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DevExpress.Data" Version="22.2.5" />
+    <PackageReference Include="DevExpress.Xpo" Version="22.2.5" />
+    <PackageReference Include="Npgsql" Version="7.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DevExpress.Docs.v22.1">
+      <HintPath>..\..\..\..\Sherp\DevDX\DevExpress.Docs.v22.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Office.v22.1.Core">
+      <HintPath>..\..\..\..\Sherp\DevDX\DevExpress.Office.v22.1.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Spreadsheet.v22.1.Core">
+      <HintPath>..\..\..\..\Sherp\DevDX\DevExpress.Spreadsheet.v22.1.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
