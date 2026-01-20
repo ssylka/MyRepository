@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Learning IEnumerable and IEnumerator/1.0.0": {
+        "runtime": {
+          "Learning IEnumerable and IEnumerator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Learning IEnumerable and IEnumerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

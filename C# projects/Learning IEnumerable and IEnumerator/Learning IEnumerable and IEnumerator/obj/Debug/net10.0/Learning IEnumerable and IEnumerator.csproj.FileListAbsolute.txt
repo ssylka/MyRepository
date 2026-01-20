@@ -1,0 +1,14 @@
+C:\Users\Стас\source\repos\Learning IEnumerable and IEnumerator\Learning IEnumerable and IEnumerator\bin\Debug\net10.0\Learning IEnumerable and IEnumerator.exe
+C:\Users\Стас\source\repos\Learning IEnumerable and IEnumerator\Learning IEnumerable and IEnumerator\bin\Debug\net10.0\Learning IEnumerable and IEnumerator.deps.json
+C:\Users\Стас\source\repos\Learning IEnumerable and IEnumerator\Learning IEnumerable and IEnumerator\bin\Debug\net10.0\Learning IEnumerable and IEnumerator.runtimeconfig.json
+C:\Users\Стас\source\repos\Learning IEnumerable and IEnumerator\Learning IEnumerable and IEnumerator\bin\Debug\net10.0\Learning IEnumerable and IEnumerator.dll
+C:\Users\Стас\source\repos\Learning IEnumerable and IEnumerator\Learning IEnumerable and IEnumerator\bin\Debug\net10.0\Learning IEnumerable and IEnumerator.pdb
+C:\Users\Стас\source\repos\Learning IEnumerable and IEnumerator\Learning IEnumerable and IEnumerator\obj\Debug\net10.0\Learning IEnumerable and IEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Стас\source\repos\Learning IEnumerable and IEnumerator\Learning IEnumerable and IEnumerator\obj\Debug\net10.0\Learning IEnumerable and IEnumerator.AssemblyInfoInputs.cache
+C:\Users\Стас\source\repos\Learning IEnumerable and IEnumerator\Learning IEnumerable and IEnumerator\obj\Debug\net10.0\Learning IEnumerable and IEnumerator.AssemblyInfo.cs
+C:\Users\Стас\source\repos\Learning IEnumerable and IEnumerator\Learning IEnumerable and IEnumerator\obj\Debug\net10.0\Learning IEnumerable and IEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\Стас\source\repos\Learning IEnumerable and IEnumerator\Learning IEnumerable and IEnumerator\obj\Debug\net10.0\Learning IEnumerable and IEnumerator.dll
+C:\Users\Стас\source\repos\Learning IEnumerable and IEnumerator\Learning IEnumerable and IEnumerator\obj\Debug\net10.0\refint\Learning IEnumerable and IEnumerator.dll
+C:\Users\Стас\source\repos\Learning IEnumerable and IEnumerator\Learning IEnumerable and IEnumerator\obj\Debug\net10.0\Learning IEnumerable and IEnumerator.pdb
+C:\Users\Стас\source\repos\Learning IEnumerable and IEnumerator\Learning IEnumerable and IEnumerator\obj\Debug\net10.0\Learning IEnumerable and IEnumerator.genruntimeconfig.cache
+C:\Users\Стас\source\repos\Learning IEnumerable and IEnumerator\Learning IEnumerable and IEnumerator\obj\Debug\net10.0\ref\Learning IEnumerable and IEnumerator.dll
