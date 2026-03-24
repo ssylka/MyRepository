@@ -1,0 +1,6 @@
+@PVZ_ASP_HostAddress = http://localhost:5259
+
+GET {{PVZ_ASP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
